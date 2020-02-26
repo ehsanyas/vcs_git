@@ -1,5 +1,6 @@
 feature 1
 feature 2
 feature 2 modified
-feature 3
 feature 3 modified
+feature 3 modified
+feature 4
